@@ -1,8 +1,12 @@
-<h3 align="center">💻 I'm a sophomore at Northeastern University studying CS & Design!</h3>
+<h3 align="center">💻 Hi, I'm Ibrahima Toure!</h3>
 
 ###
 
 <p align="left">📚 Sophomore at Northeastern University, majoring in Computer Science and Design.<br>⚙️ Former SWE Intern @ Liberty Mutual<br>🏆 Hackathon winner @ JP Morgan Chase<br>💡 Currently working on side-projects, upskilling, and looking for meaningful ways to apply what I learn.</p>
+
+###
+
+<h3 align="left">Languages & Tools:</h3>
 
 ###
 
@@ -51,7 +55,7 @@
 
 <br clear="both">
 
-<p align="left">📫 Are you a recruiter? Email me to access my private repositories! ibt.sory@gmail.com</p>
+<p align="center">📫 Are you a recruiter? Email me below to access my private repositories</p>
 
 ###
 
