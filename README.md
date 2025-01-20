@@ -55,7 +55,7 @@
 
 <br clear="both">
 
-<p align="center">📫 Are you a recruiter? Email me below to access my private repositories</p>
+<p align="center">📫 Are you a recruiter? Email me below to access my private repositories and check out some of my projects below!</p>
 
 ###
 
