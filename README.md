@@ -44,12 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31auex3lln36q6y2w5unklnbgmiq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31auex3lln36q6y2w5unklnbgmiq&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
+
+<br clear="both">
+<p align="center">📫 Are you a recruiter? Email me at "ibt.sory@gmail.com" below to access my private repositories and check out some of my projects below!</p>
