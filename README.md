@@ -48,4 +48,4 @@
 ###
 
 <br clear="both">
-<p align="center">📫 Are you a recruiter? Email me at "ibt.sory@gmail.com" below to access my private repositories and check out some of my projects below!</p>
+<p align="center">📫 Are you a recruiter? Email me at "ibt.sory@gmail.com" to access my private repositories or check out some of my projects below!</p>
