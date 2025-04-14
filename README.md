@@ -1,8 +1,8 @@
-<h3 align="center">💻 Hi, I'm Ibrahima Toure!</h3>
+<h2 align="center">💻 Hi, I'm Ibrahima Toure!</h2>
 
 ###
 
-<p align="left">📚 Sophomore at Northeastern University, majoring in Computer Science and Design.<br>⚙️ 2x SWE Intern @ Liberty Mutual<br>🏆 Hackathon winner @ JP Morgan Chase, Capital One BHTS<br>💡 Currently working on side-projects, upskilling, and looking for meaningful ways to apply what I learn.</p>
+<p align="left">📚 Sophomore at Northeastern University, majoring in Computer Science and Design.<br>⚙️ 2x SWE Intern @ Liberty Mutual<br>🏆 Hackathon winner @ JP Morgan Chase, Capital One <br>💡 Currently working on side-projects, upskilling, and looking for meaningful ways to apply what I learn.</p>
 
 ###
 
