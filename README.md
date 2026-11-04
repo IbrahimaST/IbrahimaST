@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📚 Junior at Northeastern University, majoring in Computer Science and Design.<br>⚙️ 2x SWE Intern @ Liberty Mutual<br>🏆 Hackathon winner @ JP Morgan Chase, Capital One <br>💡 Currently working on side-projects, upskilling, and looking for meaningful ways to apply what I learn.</p>
+<p align="left">📚 Senior at Northeastern University, majoring in Computer Science and Design.<br>⚙️ 2x SWE Intern @ Liberty Mutual, 1x UXE Intern @ Google<br>🏆Hackathon winner @ JP Morgan Chase, Capital One <br>💡 Currently working on side-projects, upskilling, and applying what I learn.</p>
 
 ###
 
